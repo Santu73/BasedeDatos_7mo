@@ -1,0 +1,23 @@
+INSERT INTO Partido (nro, cod_local, gol_local, cod_visitante, gol_visitante)
+VALUES
+(1, 'CAT',	0,	'ECU', 2),
+(2, 'ENG',	6,	'IRN', 2),
+(3, 'SEN',	0,	'NED', 2),
+(4, 'QAT',  1,	'SEN', 3),
+(5, 'ARG',	1,	'KSA', 2),
+(6, 'MEX',	0,	'POL', 0),
+(7, 'ARG',	2,	'MEX', 0),
+(8, 'POL',	0,	'KSA', 2),
+(9, 'NED',	2,	'QAT', 0),
+(10, 'ENG',	3, 'USA', 0),
+(11, 'IRN',	0,	'WAL', 2),
+(12, 'QAT',	1,	'ECA', 3),
+(13, 'NED',	3,	'USA', 1),
+(14, 'ARG',	2,	'AUS', 1),
+(15, 'FRA',	3,	'POL', 1),
+(16, 'ENG',	3,	'SEN', 0),
+(17, 'JPN',	2,	'CRO', 4),
+(18, 'BRA',	4,	'KOR', 1),
+(19, 'MAR',	3,	'ESP', 0),
+(20, 'POR',	6,	'SUI', 1),
+(21, 'ARG',	7,	'FRA', 5);
